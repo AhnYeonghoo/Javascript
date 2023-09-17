@@ -3,3 +3,5 @@ const func = () => {
 };
 
 console.log(func());
+
+console.log('Single Thread');
