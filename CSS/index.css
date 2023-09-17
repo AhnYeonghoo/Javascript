@@ -1,0 +1,23 @@
+body {
+	background-color: lightyellow;
+	background-image: url('./picture.png');
+	background-repeat: repeat-x;
+	background-position: left bottom;
+	background-attachment: fixed;
+	color: red;
+}
+
+p {
+	color: red;
+	text-decoration: underline;
+	background-color: #ffffcc;
+}
+
+h1 {
+	background-color: lightblue;
+}
+
+.rightToLeft {
+	direction: rt1;
+	letter-spacing: -3px;
+}
