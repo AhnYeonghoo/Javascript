@@ -1,0 +1,13 @@
+p {
+	border: solid;
+	border-color: blue;
+}
+
+#myID {
+	color: red;
+}
+
+.myClass {
+	color: green;
+	border-color: violet;
+}
