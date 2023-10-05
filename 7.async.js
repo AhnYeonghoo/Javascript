@@ -35,3 +35,5 @@ async function fetchAsyncFruits() {
 }
 
 fetchAsyncFruits().then((fruits) => console.log(fruits));
+
+fetchAsyncFruits().then((fruits) => console.log(fruits));
