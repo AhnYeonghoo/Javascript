@@ -15,4 +15,5 @@ class Counter {
 	increment = () => {
 		this.#value++;
 	};
+	// 네
 }
